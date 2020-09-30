@@ -1,7 +1,8 @@
 Compra papeleria
 =================
-Lapices
 Gomas
 Boligrafos
 Tippers
+Grapas
+Clips
 Cuadernos
