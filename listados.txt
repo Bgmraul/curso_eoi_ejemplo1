@@ -3,6 +3,4 @@ Compra papeleria
 Gomas
 Boligrafos
 Tippers
-Grapas
-Clips
-Cuadernos
+
