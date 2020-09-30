@@ -3,4 +3,5 @@ Compra papeleria
 Lapices
 Gomas
 Boligrafos
+Tippers
 Cuadernos
