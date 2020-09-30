@@ -2,4 +2,5 @@ Compra papeleria
 =================
 Lapices
 Gomas
+Tippers
 Cuadernos
